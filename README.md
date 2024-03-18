@@ -5,7 +5,7 @@ src="https://github.com/Saranraj-99/Profit-and-Sales-analysis-using-Tableau/asse
 <h2>I am sharing American based Shopping Mall Sales and Profit Insights - A Data Analysis Project performed on Tableau in my journey into Data Science.
 
 
-**<h3>About Project👨‍💻**
+##<h3>About Project👨‍💻
 
  *Performed American based Shopping Mall Profit and Sales Insights - A Data Analysis project.
  
